@@ -265,7 +265,7 @@ const renderLetters = (text: string, className: string = "") => {
 };
 
 const BotanicalBg = () => (
-    <svg className="absolute -left-32 top-10 w-[800px] h-[800px] text-forest/10 pointer-events-none opacity-10 z-0" viewBox="0 0 500 500" fill="none">
+    <svg className="absolute -left-32 top-10 w-[800px] h-[800px] text-forest/10 pointer-events-none opacity-0 z-0" viewBox="0 0 500 500" fill="none">
         <path d="M100,500 Q150,300 300,250 T450,50" stroke="currentColor" strokeWidth="1.5" fill="none" className="botanical-path"/>
         <path d="M300,250 Q350,200 450,220" stroke="currentColor" strokeWidth="1.2" fill="none" className="botanical-path"/>
         <path d="M300,250 Q250,200 250,100" stroke="currentColor" strokeWidth="1.2" fill="none" className="botanical-path"/>

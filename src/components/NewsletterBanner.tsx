@@ -176,7 +176,7 @@ const NewsletterBanner: React.FC = () => {
   };
 
   return (
-    <section className="relative bg-[#FFF7EA] overflow-hidden py-20 lg:py-28 h-[80vh]">
+    <section className="relative bg-[#FFF7EA] overflow-hidden py-20 lg:py-28 h-[70vh]">
       
       {/* Background Video */}
       <div className="absolute inset-0 h-full w-full z-0 overflow-hidden">
@@ -191,7 +191,7 @@ const NewsletterBanner: React.FC = () => {
       </div>
 
       {/* Overlay */}
-      <div className="absolute inset-0 bg-black/90 z-5" />
+      <div className="absolute inset-0 bg-black/70 z-5" />
 
       {/* Content */}
       <div className="relative max-w-[1450px] mx-auto px-5 lg:px-12 text-black flex flex-col lg:justify-center lg:flex-row lg:items-center gap-10 lg:gap-20">

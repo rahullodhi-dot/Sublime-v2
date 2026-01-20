@@ -162,9 +162,9 @@ Every product of which is packed with authentic quality fresh ingredients, which
                 fontWeight: 100,
 
                 fontSize: '18px',
-                lineHeight: '120%',
+                lineHeight: '150%',
                 letterSpacing: '0%',
-              }} className="space-y-3 z-10 font-normal text-sm sm:text-base leading-relaxed text-[#1A302A] text-justify whitespace-pre-line">
+              }} className="space-y-6 z-10 font-normal text-xs  leading-[200%] text-[#1A302A] text-justify whitespace-pre-line">
                 {displayData.description}
               </div>
 

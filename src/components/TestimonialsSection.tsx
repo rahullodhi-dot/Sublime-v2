@@ -171,7 +171,7 @@ const TestimonialsSection: React.FC = () => {
 
               {/* Product Info */}
               <div className="p-4">
-                <div className="flex items-start justify-between mb-3">
+                <div className="flex items-start justify-between -mb-1">
                   <h3 style={{
                   fontFamily: "'gotham2', sans-serif",
                   fontWeight: 100,
